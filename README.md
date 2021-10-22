@@ -1,3 +1,3 @@
 # Bike-Sharing-System
 
-Bike daily rental count predicting model base don available environmental data
+Bike daily rental count predicting model based on available environmental data
